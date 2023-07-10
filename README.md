@@ -1,4 +1,4 @@
-![logo](https://github.com/Hassan1823/Hassan1823/blob/main/Blue%20Purple%20Futuristic%20Virus%20Hacks%20Youtube%20Thumbnail.png)
+![logo](https://github.com/Hassan1823/Hassan1823/blob/main/BG)
 
 <h1 align="center">Hi 👋, I'm Snoopy</h1>
 <h3 align="center">A passionate Next Js Developer from Pakistan</h3>
