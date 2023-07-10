@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Snoopy</h1>
 <h3 align="center">A passionate Next Js Developer from Pakistan</h3>
 
+<img align="right" alt="cooding" width="400" src="![image](https://github.com/Hassan1823/Hassan1823/assets/88111599/0f1be94d-c39a-42ee-8b0e-8b0fe4141c6c)"
+ />
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hassan8123&label=Profile%20views&color=0e75b6&style=flat" alt="hassan8123" /> </p>
 
 - 👨‍💻 All of my projects are available at [https://portfolio-mu-three-86.vercel.app/](https://portfolio-mu-three-86.vercel.app/)
