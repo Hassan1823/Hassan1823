@@ -27,9 +27,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hassan8123&show_icons=true&locale=en&layout=compact" alt="hassan8123" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hassan8123&show_icons=true&locale=en" alt="hassan8123" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hassan8123&" alt="hassan8123" /></p>
 <!--
 **Hassan1823/Hassan1823** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
