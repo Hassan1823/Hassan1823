@@ -2,9 +2,6 @@
 
 ###
 
-<h1 align="center">🚀 MERN STACK DEVELOPER </h1>
-
-###
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/Hassan1823/count.svg?"  />
@@ -12,9 +9,6 @@
 
 ###
 
-<h3 align="center">🛠 Language and tools</h3>
-
-###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
