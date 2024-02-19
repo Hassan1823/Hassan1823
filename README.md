@@ -6,21 +6,13 @@
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
-
-###
-
-<p align="left">I'm Hassan Zaib from Pakistan<br><br>- 🔭 I’m working as MERN Stack Developer<br>- 📚 Learning<br></p>
-
-###
-
-<h3 align="left">🛠 Language and tools</h3>
-
-###
-
 <div align="center">
   <img src="https://profile-counter.glitch.me/Hassan1823/count.svg?"  />
 </div>
+
+###
+
+<h3 align="center">🛠 Language and tools</h3>
 
 ###
 
