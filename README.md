@@ -2,9 +2,19 @@
 
 ###
 
-<br clear="both">
+<h1 align="center">Hey there 👋</h1>
 
-<h1 align="center">🚀 MERN STACK </h1>
+###
+
+<h3 align="left">👩‍💻  About Me</h3>
+
+###
+
+<p align="left">I'm Hassan Zaib from Pakistan<br><br>- 🔭 I’m working as MERN Stack Developer<br>- 📚 Learning<br></p>
+
+###
+
+<h3 align="left">🛠 Language and tools</h3>
 
 ###
 
