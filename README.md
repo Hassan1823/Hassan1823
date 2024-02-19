@@ -2,7 +2,7 @@
 
 ###
 
-<h1 align="center">🚀 MERN STACK<</h1>
+<h1 align="center">🚀 MERN STACK DEVELOPER </h1>
 
 ###
 
