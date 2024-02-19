@@ -4,7 +4,7 @@
 
 <br clear="both">
 
-<h1 align="center">Hassan Zaib</h1>
+<h1 align="center">MERN STACK DEVERLOPER</h1>
 
 ###
 
